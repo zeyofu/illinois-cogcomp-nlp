@@ -83,6 +83,12 @@ public enum Language {
     Tatar("tt"),
     Tajik("tg"),
     Telugu("te")
+    Oromo("om")
+    Tigrinya("ti")
+    Sinhala("si")
+    Kinyarwanda("rw")
+    Oriya("or")
+    Ilocano("ilo")
     ;
 
     private static Logger logger = LoggerFactory.getLogger(Language.class);
